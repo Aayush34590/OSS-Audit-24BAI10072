@@ -59,7 +59,7 @@ sudo apt install git
 ## 📂 Project Structure
 
 ```
-oss-audit-24BAI10148/
+OSS-Audit-24BAI10072/
 │
 ├── script1.sh
 ├── script2.sh
